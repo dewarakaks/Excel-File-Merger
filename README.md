@@ -2,6 +2,7 @@
 This script is designed to combine multiple Excel files located in one directory, add a "Brand" column based on the file name, and combine data from a specific sheet named "Data" in each file. The hyperlinks from the first column (column 'A') are also included in the final output as an additional column. The final results will be saved into a single Excel file with a name that can be customized by the user.
 (You can modify this)
 How it works!!!
+
 1. User Input:
 The user will be asked to enter the date and name of the output file.
 The script will add .xlsx automatically if the extension is not included.
